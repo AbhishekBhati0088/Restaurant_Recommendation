@@ -1,0 +1,2 @@
+# Restaurant_Recommendation
+Due to rapid increase of information on the internet recommendation systems are widely popular nowadays and have been broadly used in research work to filter out the relevant information according to user  preferences or past behavior. Recommendation system is applicable in numerous domains such as E- Commerce site, music, movie, book location and Restaurant recommendation.
